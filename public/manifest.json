@@ -1,1 +1,1661 @@
-
+{
+  "version": 1,
+  "album": "Jukebox",
+  "baseURL": "https://filedn.com/ldxHrdHcf3tV7YntUkvw8R0/",
+  "updatedAt": "2025-10-09T15:23:07Z",
+  "count": 236,
+  "tracks": [
+    {
+      "id": 1,
+      "title": "A Crazy Ride",
+      "artist": "PulseNexis",
+      "file": "A Crazy Ride.mp3",
+      "duration": null
+    },
+    {
+      "id": 2,
+      "title": "A Fool For You",
+      "artist": "PulseNexis",
+      "file": "A Fool For You.mp3",
+      "duration": null
+    },
+    {
+      "id": 3,
+      "title": "A Million Ways (To Love You) (Remix)",
+      "artist": "PulseNexis",
+      "file": "A Million Ways (To Love You) (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 4,
+      "title": "A Million Ways (To Love You)",
+      "artist": "PulseNexis",
+      "file": "A Million Ways (To Love You).mp3",
+      "duration": null
+    },
+    {
+      "id": 5,
+      "title": "Adore You",
+      "artist": "PulseNexis",
+      "file": "Adore You.mp3",
+      "duration": null
+    },
+    {
+      "id": 6,
+      "title": "All Eyes on You",
+      "artist": "PulseNexis",
+      "file": "All Eyes on You.mp3",
+      "duration": null
+    },
+    {
+      "id": 7,
+      "title": "All My Days Mastered",
+      "artist": "PulseNexis",
+      "file": "All My Days Mastered.mp3",
+      "duration": null
+    },
+    {
+      "id": 8,
+      "title": "All My Days",
+      "artist": "PulseNexis",
+      "file": "All My Days.mp3",
+      "duration": null
+    },
+    {
+      "id": 9,
+      "title": "All My Life",
+      "artist": "PulseNexis",
+      "file": "All My Life.mp3",
+      "duration": null
+    },
+    {
+      "id": 10,
+      "title": "All That's Left of Me",
+      "artist": "PulseNexis",
+      "file": "All That's Left of Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 11,
+      "title": "All You Need is Me",
+      "artist": "PulseNexis",
+      "file": "All You Need is Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 12,
+      "title": "Anytime You Like",
+      "artist": "PulseNexis",
+      "file": "Anytime You Like.mp3",
+      "duration": null
+    },
+    {
+      "id": 13,
+      "title": "AsLongasIhaveyou",
+      "artist": "PulseNexis",
+      "file": "AsLongasIhaveyou.mp3",
+      "duration": null
+    },
+    {
+      "id": 14,
+      "title": "At 2AM",
+      "artist": "PulseNexis",
+      "file": "At 2AM.mp3",
+      "duration": null
+    },
+    {
+      "id": 15,
+      "title": "Back in Style",
+      "artist": "PulseNexis",
+      "file": "Back in Style.mp3",
+      "duration": null
+    },
+    {
+      "id": 16,
+      "title": "Baseline Crush",
+      "artist": "PulseNexis",
+      "file": "Baseline Crush.mp3",
+      "duration": null
+    },
+    {
+      "id": 17,
+      "title": "Before I Know It (Remix)",
+      "artist": "PulseNexis",
+      "file": "Before I Know It (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 18,
+      "title": "Before I Know it",
+      "artist": "PulseNexis",
+      "file": "Before I Know it.mp3",
+      "duration": null
+    },
+    {
+      "id": 19,
+      "title": "Body Talk (Stunner)",
+      "artist": "PulseNexis",
+      "file": "Body Talk (Stunner).mp3",
+      "duration": null
+    },
+    {
+      "id": 20,
+      "title": "Body Talk",
+      "artist": "PulseNexis",
+      "file": "Body Talk.mp3",
+      "duration": null
+    },
+    {
+      "id": 21,
+      "title": "Body on Repeat",
+      "artist": "PulseNexis",
+      "file": "Body on Repeat.mp3",
+      "duration": null
+    },
+    {
+      "id": 22,
+      "title": "Booty Trap",
+      "artist": "PulseNexis",
+      "file": "Booty Trap.mp3",
+      "duration": null
+    },
+    {
+      "id": 23,
+      "title": "Boy Bye",
+      "artist": "PulseNexis",
+      "file": "Boy Bye.mp3",
+      "duration": null
+    },
+    {
+      "id": 24,
+      "title": "Bring Your Loving Home to Me",
+      "artist": "PulseNexis",
+      "file": "Bring Your Loving Home to Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 25,
+      "title": "By Grace, We Rise",
+      "artist": "PulseNexis",
+      "file": "By Grace, We Rise.mp3",
+      "duration": null
+    },
+    {
+      "id": 26,
+      "title": "By My Side",
+      "artist": "PulseNexis",
+      "file": "By My Side.mp3",
+      "duration": null
+    },
+    {
+      "id": 27,
+      "title": "By Your Side (No Wait and See)",
+      "artist": "PulseNexis",
+      "file": "By Your Side (No Wait and See).mp3",
+      "duration": null
+    },
+    {
+      "id": 28,
+      "title": "Caller ID (Her Side)",
+      "artist": "PulseNexis",
+      "file": "Caller ID (Her Side).mp3",
+      "duration": null
+    },
+    {
+      "id": 29,
+      "title": "Can't Let You Go Tonight(Remix)",
+      "artist": "PulseNexis",
+      "file": "Can't Let You Go Tonight(Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 30,
+      "title": "Certified Tease",
+      "artist": "PulseNexis",
+      "file": "Certified Tease.wav",
+      "duration": null
+    },
+    {
+      "id": 31,
+      "title": "Choose My Heart",
+      "artist": "PulseNexis",
+      "file": "Choose My Heart.mp3",
+      "duration": null
+    },
+    {
+      "id": 32,
+      "title": "Clear View (Can I Have You)",
+      "artist": "PulseNexis",
+      "file": "Clear View (Can I Have You).mp3",
+      "duration": null
+    },
+    {
+      "id": 33,
+      "title": "Coast Groove",
+      "artist": "PulseNexis",
+      "file": "Coast Groove.mp3",
+      "duration": null
+    },
+    {
+      "id": 34,
+      "title": "Come Get This Love (Remix)",
+      "artist": "PulseNexis",
+      "file": "Come Get This Love (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 35,
+      "title": "Come Get This Love",
+      "artist": "PulseNexis",
+      "file": "Come Get This Love.mp3",
+      "duration": null
+    },
+    {
+      "id": 36,
+      "title": "Deeper Than Me",
+      "artist": "PulseNexis",
+      "file": "Deeper Than Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 37,
+      "title": "Devoted",
+      "artist": "PulseNexis",
+      "file": "Devoted.mp3",
+      "duration": null
+    },
+    {
+      "id": 38,
+      "title": "Do You Recall",
+      "artist": "PulseNexis",
+      "file": "Do You Recall.mp3",
+      "duration": null
+    },
+    {
+      "id": 39,
+      "title": "Don't Let Me Ba a Memory",
+      "artist": "PulseNexis",
+      "file": "Don't Let Me Ba a Memory.wav",
+      "duration": null
+    },
+    {
+      "id": 40,
+      "title": "Don't Let Me Go",
+      "artist": "PulseNexis",
+      "file": "Don't Let Me Go.mp3",
+      "duration": null
+    },
+    {
+      "id": 41,
+      "title": "Don't Want to Wake Without You",
+      "artist": "PulseNexis",
+      "file": "Don't Want to Wake Without You.mp3",
+      "duration": null
+    },
+    {
+      "id": 42,
+      "title": "Dont Play Boogee With Me",
+      "artist": "PulseNexis",
+      "file": "Dont Play Boogee With Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 43,
+      "title": "Dream Lover",
+      "artist": "PulseNexis",
+      "file": "Dream Lover.mp3",
+      "duration": null
+    },
+    {
+      "id": 44,
+      "title": "Drippin",
+      "artist": "PulseNexis",
+      "file": "Drippin.mp3",
+      "duration": null
+    },
+    {
+      "id": 45,
+      "title": "East to West (Your Beauty)",
+      "artist": "PulseNexis",
+      "file": "East to West (Your Beauty).mp3",
+      "duration": null
+    },
+    {
+      "id": 46,
+      "title": "Echoes of Us",
+      "artist": "PulseNexis",
+      "file": "Echoes of Us.mp3",
+      "duration": null
+    },
+    {
+      "id": 47,
+      "title": "Echoes of You",
+      "artist": "PulseNexis",
+      "file": "Echoes of You.mp3",
+      "duration": null
+    },
+    {
+      "id": 48,
+      "title": "Emotional Acrobat",
+      "artist": "PulseNexis",
+      "file": "Emotional Acrobat.mp3",
+      "duration": null
+    },
+    {
+      "id": 49,
+      "title": "Evan_Now",
+      "artist": "PulseNexis",
+      "file": "Evan_Now.mp3",
+      "duration": null
+    },
+    {
+      "id": 50,
+      "title": "Forever Starts Tonight",
+      "artist": "PulseNexis",
+      "file": "Forever Starts Tonight.mp3",
+      "duration": null
+    },
+    {
+      "id": 51,
+      "title": "Forever With Me",
+      "artist": "PulseNexis",
+      "file": "Forever With Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 52,
+      "title": "Forever, If You Let Me",
+      "artist": "PulseNexis",
+      "file": "Forever, If You Let Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 53,
+      "title": "Girl, This Love's Forever",
+      "artist": "PulseNexis",
+      "file": "Girl, This Love's Forever.mp3",
+      "duration": null
+    },
+    {
+      "id": 54,
+      "title": "Girl, What's Your Name",
+      "artist": "PulseNexis",
+      "file": "Girl, What's Your Name.mp3",
+      "duration": null
+    },
+    {
+      "id": 55,
+      "title": "Gold Digga",
+      "artist": "PulseNexis",
+      "file": "Gold Digga.mp3",
+      "duration": null
+    },
+    {
+      "id": 56,
+      "title": "Held",
+      "artist": "PulseNexis",
+      "file": "Held.mp3",
+      "duration": null
+    },
+    {
+      "id": 57,
+      "title": "Here at Your Beck n Call",
+      "artist": "PulseNexis",
+      "file": "Here at Your Beck n Call.mp3",
+      "duration": null
+    },
+    {
+      "id": 58,
+      "title": "High Stakes Love (Remix)",
+      "artist": "PulseNexis",
+      "file": "High Stakes Love (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 59,
+      "title": "Holding On(Remix)",
+      "artist": "PulseNexis",
+      "file": "Holding On(Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 60,
+      "title": "Holding on to you (Remix)",
+      "artist": "PulseNexis",
+      "file": "Holding on to you (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 61,
+      "title": "Holding on to you",
+      "artist": "PulseNexis",
+      "file": "Holding on to you.mp3",
+      "duration": null
+    },
+    {
+      "id": 62,
+      "title": "How I Love You",
+      "artist": "PulseNexis",
+      "file": "How I Love You.mp3",
+      "duration": null
+    },
+    {
+      "id": 63,
+      "title": "How We Roll",
+      "artist": "PulseNexis",
+      "file": "How We Roll.mp3",
+      "duration": null
+    },
+    {
+      "id": 64,
+      "title": "How Will I Know",
+      "artist": "PulseNexis",
+      "file": "How Will I Know.mp3",
+      "duration": null
+    },
+    {
+      "id": 65,
+      "title": "I Adore You (Remix)",
+      "artist": "PulseNexis",
+      "file": "I Adore You (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 66,
+      "title": "I Needed You",
+      "artist": "PulseNexis",
+      "file": "I Needed You.mp3",
+      "duration": null
+    },
+    {
+      "id": 67,
+      "title": "I'll Hold You Forever",
+      "artist": "PulseNexis",
+      "file": "I'll Hold You Forever.mp3",
+      "duration": null
+    },
+    {
+      "id": 68,
+      "title": "I'll Never Love Another (Remix)",
+      "artist": "PulseNexis",
+      "file": "I'll Never Love Another (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 69,
+      "title": "IF IT'S REAL",
+      "artist": "PulseNexis",
+      "file": "IF IT'S REAL.mp3",
+      "duration": null
+    },
+    {
+      "id": 70,
+      "title": "If I Never Hold You Again",
+      "artist": "PulseNexis",
+      "file": "If I Never Hold You Again.mp3",
+      "duration": null
+    },
+    {
+      "id": 71,
+      "title": "If Love is Listening",
+      "artist": "PulseNexis",
+      "file": "If Love is Listening.mp3",
+      "duration": null
+    },
+    {
+      "id": 72,
+      "title": "Ignite My Fire (Remix)",
+      "artist": "PulseNexis",
+      "file": "Ignite My Fire (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 73,
+      "title": "Ignite My Fire",
+      "artist": "PulseNexis",
+      "file": "Ignite My Fire.mp3",
+      "duration": null
+    },
+    {
+      "id": 74,
+      "title": "In This Storm",
+      "artist": "PulseNexis",
+      "file": "In This Storm.mp3",
+      "duration": null
+    },
+    {
+      "id": 75,
+      "title": "In This Storm",
+      "artist": "PulseNexis",
+      "file": "In This Storm.wav",
+      "duration": null
+    },
+    {
+      "id": 76,
+      "title": "In Time",
+      "artist": "PulseNexis",
+      "file": "In Time.mp3",
+      "duration": null
+    },
+    {
+      "id": 77,
+      "title": "In Your Hands",
+      "artist": "PulseNexis",
+      "file": "In Your Hands.mp3",
+      "duration": null
+    },
+    {
+      "id": 78,
+      "title": "In the Sky",
+      "artist": "PulseNexis",
+      "file": "In the Sky.mp3",
+      "duration": null
+    },
+    {
+      "id": 79,
+      "title": "In the Stillness",
+      "artist": "PulseNexis",
+      "file": "In the Stillness.mp3",
+      "duration": null
+    },
+    {
+      "id": 80,
+      "title": "Just Because",
+      "artist": "PulseNexis",
+      "file": "Just Because.mp3",
+      "duration": null
+    },
+    {
+      "id": 81,
+      "title": "Just a Little Tweak",
+      "artist": "PulseNexis",
+      "file": "Just a Little Tweak.mp3",
+      "duration": null
+    },
+    {
+      "id": 82,
+      "title": "Just for the Moment",
+      "artist": "PulseNexis",
+      "file": "Just for the Moment.mp3",
+      "duration": null
+    },
+    {
+      "id": 83,
+      "title": "Just for the Moment",
+      "artist": "PulseNexis",
+      "file": "Just for the Moment.wav",
+      "duration": null
+    },
+    {
+      "id": 84,
+      "title": "Las Vegas Nights",
+      "artist": "PulseNexis",
+      "file": "Las Vegas Nights.mp3",
+      "duration": null
+    },
+    {
+      "id": 85,
+      "title": "Last Night",
+      "artist": "PulseNexis",
+      "file": "Last Night.mp3",
+      "duration": null
+    },
+    {
+      "id": 86,
+      "title": "Lead The Way",
+      "artist": "PulseNexis",
+      "file": "Lead The Way.mp3",
+      "duration": null
+    },
+    {
+      "id": 87,
+      "title": "Let Me Pour Remastered",
+      "artist": "PulseNexis",
+      "file": "Let Me Pour Remastered.mp3",
+      "duration": null
+    },
+    {
+      "id": 88,
+      "title": "Like Heaven To Me",
+      "artist": "PulseNexis",
+      "file": "Like Heaven To Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 89,
+      "title": "Louder Than Words",
+      "artist": "PulseNexis",
+      "file": "Louder Than Words.mp3",
+      "duration": null
+    },
+    {
+      "id": 90,
+      "title": "Love Scene",
+      "artist": "PulseNexis",
+      "file": "Love Scene.mp3",
+      "duration": null
+    },
+    {
+      "id": 91,
+      "title": "Love has never been like us",
+      "artist": "PulseNexis",
+      "file": "Love has never been like us.mp3",
+      "duration": null
+    },
+    {
+      "id": 92,
+      "title": "Love is the only Reason",
+      "artist": "PulseNexis",
+      "file": "Love is the only Reason.mp3",
+      "duration": null
+    },
+    {
+      "id": 93,
+      "title": "Love's Lullaby",
+      "artist": "PulseNexis",
+      "file": "Love's Lullaby.mp3",
+      "duration": null
+    },
+    {
+      "id": 94,
+      "title": "Made For Me",
+      "artist": "PulseNexis",
+      "file": "Made For Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 95,
+      "title": "Made to Love You",
+      "artist": "PulseNexis",
+      "file": "Made to Love You.mp3",
+      "duration": null
+    },
+    {
+      "id": 96,
+      "title": "Make you my wife",
+      "artist": "PulseNexis",
+      "file": "Make you my wife.mp3",
+      "duration": null
+    },
+    {
+      "id": 97,
+      "title": "Me For You",
+      "artist": "PulseNexis",
+      "file": "Me For You.mp3",
+      "duration": null
+    },
+    {
+      "id": 98,
+      "title": "Mic Dreams",
+      "artist": "PulseNexis",
+      "file": "Mic Dreams.mp3",
+      "duration": null
+    },
+    {
+      "id": 99,
+      "title": "More Than Friends",
+      "artist": "PulseNexis",
+      "file": "More Than Friends.mp3",
+      "duration": null
+    },
+    {
+      "id": 100,
+      "title": "Move Like That (Remix)",
+      "artist": "PulseNexis",
+      "file": "Move Like That (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 101,
+      "title": "Move Like That",
+      "artist": "PulseNexis",
+      "file": "Move Like That.mp3",
+      "duration": null
+    },
+    {
+      "id": 102,
+      "title": "My Baby Girl (Remix)",
+      "artist": "PulseNexis",
+      "file": "My Baby Girl (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 103,
+      "title": "My Baby Girl",
+      "artist": "PulseNexis",
+      "file": "My Baby Girl.mp3",
+      "duration": null
+    },
+    {
+      "id": 104,
+      "title": "My Frequency",
+      "artist": "PulseNexis",
+      "file": "My Frequency.mp3",
+      "duration": null
+    },
+    {
+      "id": 105,
+      "title": "My Love Will Never (Remix)",
+      "artist": "PulseNexis",
+      "file": "My Love Will Never (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 106,
+      "title": "My Middle, My Top",
+      "artist": "PulseNexis",
+      "file": "My Middle, My Top.mp3",
+      "duration": null
+    },
+    {
+      "id": 107,
+      "title": "No Love Better",
+      "artist": "PulseNexis",
+      "file": "No Love Better.mp3",
+      "duration": null
+    },
+    {
+      "id": 108,
+      "title": "No Matter How Far",
+      "artist": "PulseNexis",
+      "file": "No Matter How Far.mp3",
+      "duration": null
+    },
+    {
+      "id": 109,
+      "title": "Not Like Before",
+      "artist": "PulseNexis",
+      "file": "Not Like Before.mp3",
+      "duration": null
+    },
+    {
+      "id": 110,
+      "title": "Number One Concern (Remix)",
+      "artist": "PulseNexis",
+      "file": "Number One Concern (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 111,
+      "title": "Number One Concern",
+      "artist": "PulseNexis",
+      "file": "Number One Concern.mp3",
+      "duration": null
+    },
+    {
+      "id": 112,
+      "title": "One More Night",
+      "artist": "PulseNexis",
+      "file": "One More Night.mp3",
+      "duration": null
+    },
+    {
+      "id": 113,
+      "title": "One Song Away",
+      "artist": "PulseNexis",
+      "file": "One Song Away.mp3",
+      "duration": null
+    },
+    {
+      "id": 114,
+      "title": "One Wish to Have Only You",
+      "artist": "PulseNexis",
+      "file": "One Wish to Have Only You.mp3",
+      "duration": null
+    },
+    {
+      "id": 115,
+      "title": "Outer Space Love Lounge",
+      "artist": "PulseNexis",
+      "file": "Outer Space Love Lounge.mp3",
+      "duration": null
+    },
+    {
+      "id": 116,
+      "title": "Perfect Choice (Remix)",
+      "artist": "PulseNexis",
+      "file": "Perfect Choice (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 117,
+      "title": "Perfect Eye's",
+      "artist": "PulseNexis",
+      "file": "Perfect Eye's.mp3",
+      "duration": null
+    },
+    {
+      "id": 118,
+      "title": "Petals (You Don't Leave That)",
+      "artist": "PulseNexis",
+      "file": "Petals (You Don't Leave That).mp3",
+      "duration": null
+    },
+    {
+      "id": 119,
+      "title": "Play a Slow jam",
+      "artist": "PulseNexis",
+      "file": "Play a Slow jam.mp3",
+      "duration": null
+    },
+    {
+      "id": 120,
+      "title": "Poppin' Bottles, We Lit",
+      "artist": "PulseNexis",
+      "file": "Poppin' Bottles, We Lit.mp3",
+      "duration": null
+    },
+    {
+      "id": 121,
+      "title": "Prettiest Girl in the World",
+      "artist": "PulseNexis",
+      "file": "Prettiest Girl in the World.mp3",
+      "duration": null
+    },
+    {
+      "id": 122,
+      "title": "Promise You Forever",
+      "artist": "PulseNexis",
+      "file": "Promise You Forever.mp3",
+      "duration": null
+    },
+    {
+      "id": 123,
+      "title": "Promises of Love",
+      "artist": "PulseNexis",
+      "file": "Promises of Love.mp3",
+      "duration": null
+    },
+    {
+      "id": 124,
+      "title": "Put Her First",
+      "artist": "PulseNexis",
+      "file": "Put Her First.mp3",
+      "duration": null
+    },
+    {
+      "id": 125,
+      "title": "Remember Us (Where's the Love)",
+      "artist": "PulseNexis",
+      "file": "Remember Us (Where's the Love).mp3",
+      "duration": null
+    },
+    {
+      "id": 126,
+      "title": "Ride or Die (Remix)",
+      "artist": "PulseNexis",
+      "file": "Ride or Die (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 127,
+      "title": "Right in the MIddle II",
+      "artist": "PulseNexis",
+      "file": "Right in the MIddle II.mp3",
+      "duration": null
+    },
+    {
+      "id": 128,
+      "title": "Right in the MIddle",
+      "artist": "PulseNexis",
+      "file": "Right in the MIddle.mp3",
+      "duration": null
+    },
+    {
+      "id": 129,
+      "title": "Right in the Middle II (Remix)",
+      "artist": "PulseNexis",
+      "file": "Right in the Middle II (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 130,
+      "title": "Santa Monica Dreams (Remix)",
+      "artist": "PulseNexis",
+      "file": "Santa Monica Dreams (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 131,
+      "title": "Savage Aura",
+      "artist": "PulseNexis",
+      "file": "Savage Aura.mp3",
+      "duration": null
+    },
+    {
+      "id": 132,
+      "title": "Say My Name, Fall in Love With Me",
+      "artist": "PulseNexis",
+      "file": "Say My Name, Fall in Love With Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 133,
+      "title": "Seaside Love Affair (Remix)",
+      "artist": "PulseNexis",
+      "file": "Seaside Love Affair (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 134,
+      "title": "Silk Secrets",
+      "artist": "PulseNexis",
+      "file": "Silk Secrets.mp3",
+      "duration": null
+    },
+    {
+      "id": 135,
+      "title": "So Right, So Fine",
+      "artist": "PulseNexis",
+      "file": "So Right, So Fine.mp3",
+      "duration": null
+    },
+    {
+      "id": 136,
+      "title": "Somebody's Lying",
+      "artist": "PulseNexis",
+      "file": "Somebody's Lying.mp3",
+      "duration": null
+    },
+    {
+      "id": 137,
+      "title": "Somewhere There's a Love for Me",
+      "artist": "PulseNexis",
+      "file": "Somewhere There's a Love for Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 138,
+      "title": "Soon You Will See",
+      "artist": "PulseNexis",
+      "file": "Soon You Will See.mp3",
+      "duration": null
+    },
+    {
+      "id": 139,
+      "title": "Spectrum of Love",
+      "artist": "PulseNexis",
+      "file": "Spectrum of Love.mp3",
+      "duration": null
+    },
+    {
+      "id": 140,
+      "title": "Stay a Little Longer",
+      "artist": "PulseNexis",
+      "file": "Stay a Little Longer.mp3",
+      "duration": null
+    },
+    {
+      "id": 141,
+      "title": "Step to Me",
+      "artist": "PulseNexis",
+      "file": "Step to Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 142,
+      "title": "Still With Me",
+      "artist": "PulseNexis",
+      "file": "Still With Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 143,
+      "title": "Stupid Isn't Me(Remix)",
+      "artist": "PulseNexis",
+      "file": "Stupid Isn't Me(Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 144,
+      "title": "Stupid Isn't Me",
+      "artist": "PulseNexis",
+      "file": "Stupid Isn't Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 145,
+      "title": "Sunshine Lover",
+      "artist": "PulseNexis",
+      "file": "Sunshine Lover.mp3",
+      "duration": null
+    },
+    {
+      "id": 146,
+      "title": "Sweet Summer Night's",
+      "artist": "PulseNexis",
+      "file": "Sweet Summer Night's.mp3",
+      "duration": null
+    },
+    {
+      "id": 147,
+      "title": "Take Us There",
+      "artist": "PulseNexis",
+      "file": "Take Us There.mp3",
+      "duration": null
+    },
+    {
+      "id": 148,
+      "title": "Take You There (Remix)",
+      "artist": "PulseNexis",
+      "file": "Take You There (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 149,
+      "title": "Take You There",
+      "artist": "PulseNexis",
+      "file": "Take You There.mp3",
+      "duration": null
+    },
+    {
+      "id": 150,
+      "title": "Tell Me Baby(All You Need)",
+      "artist": "PulseNexis",
+      "file": "Tell Me Baby(All You Need).mp3",
+      "duration": null
+    },
+    {
+      "id": 151,
+      "title": "Tell Me Everything",
+      "artist": "PulseNexis",
+      "file": "Tell Me Everything.mp3",
+      "duration": null
+    },
+    {
+      "id": 152,
+      "title": "Tell Me If You Do",
+      "artist": "PulseNexis",
+      "file": "Tell Me If You Do.mp3",
+      "duration": null
+    },
+    {
+      "id": 153,
+      "title": "Tell me, Baby (All You Need)",
+      "artist": "PulseNexis",
+      "file": "Tell me, Baby (All You Need).mp3",
+      "duration": null
+    },
+    {
+      "id": 154,
+      "title": "That Honey Drip",
+      "artist": "PulseNexis",
+      "file": "That Honey Drip.mp3",
+      "duration": null
+    },
+    {
+      "id": 155,
+      "title": "The Cool in You",
+      "artist": "PulseNexis",
+      "file": "The Cool in You.mp3",
+      "duration": null
+    },
+    {
+      "id": 156,
+      "title": "The First Time I Never",
+      "artist": "PulseNexis",
+      "file": "The First Time I Never.mp3",
+      "duration": null
+    },
+    {
+      "id": 157,
+      "title": "The Glow of Love",
+      "artist": "PulseNexis",
+      "file": "The Glow of Love.mp3",
+      "duration": null
+    },
+    {
+      "id": 158,
+      "title": "The Interlude",
+      "artist": "PulseNexis",
+      "file": "The Interlude.mp3",
+      "duration": null
+    },
+    {
+      "id": 159,
+      "title": "The Night You Let Me In Sample",
+      "artist": "PulseNexis",
+      "file": "The Night You Let Me In Sample.mp3",
+      "duration": null
+    },
+    {
+      "id": 160,
+      "title": "The One For Me (Remix)",
+      "artist": "PulseNexis",
+      "file": "The One For Me (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 161,
+      "title": "The One For Me",
+      "artist": "PulseNexis",
+      "file": "The One For Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 162,
+      "title": "The Reason",
+      "artist": "PulseNexis",
+      "file": "The Reason.mp3",
+      "duration": null
+    },
+    {
+      "id": 163,
+      "title": "The Way You Love Me",
+      "artist": "PulseNexis",
+      "file": "The Way You Love Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 164,
+      "title": "The Way You Love Me",
+      "artist": "PulseNexis",
+      "file": "The Way You Love Me.wav",
+      "duration": null
+    },
+    {
+      "id": 165,
+      "title": "The Way You Touch Me",
+      "artist": "PulseNexis",
+      "file": "The Way You Touch Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 166,
+      "title": "Thinking of You",
+      "artist": "PulseNexis",
+      "file": "Thinking of You.mp3",
+      "duration": null
+    },
+    {
+      "id": 167,
+      "title": "This is What I Love",
+      "artist": "PulseNexis",
+      "file": "This is What I Love.mp3",
+      "duration": null
+    },
+    {
+      "id": 168,
+      "title": "This thing wont work",
+      "artist": "PulseNexis",
+      "file": "This thing wont work.mp3",
+      "duration": null
+    },
+    {
+      "id": 169,
+      "title": "This wont work",
+      "artist": "PulseNexis",
+      "file": "This wont work.mp3",
+      "duration": null
+    },
+    {
+      "id": 170,
+      "title": "Through the Storm",
+      "artist": "PulseNexis",
+      "file": "Through the Storm.mp3",
+      "duration": null
+    },
+    {
+      "id": 171,
+      "title": "Time to Let Him Go",
+      "artist": "PulseNexis",
+      "file": "Time to Let Him Go.mp3",
+      "duration": null
+    },
+    {
+      "id": 172,
+      "title": "Turn On To Love",
+      "artist": "PulseNexis",
+      "file": "Turn On To Love.mp3",
+      "duration": null
+    },
+    {
+      "id": 173,
+      "title": "Turn it Up",
+      "artist": "PulseNexis",
+      "file": "Turn it Up.mp3",
+      "duration": null
+    },
+    {
+      "id": 174,
+      "title": "Undone by You",
+      "artist": "PulseNexis",
+      "file": "Undone by You.mp3",
+      "duration": null
+    },
+    {
+      "id": 175,
+      "title": "Vegas Dreams",
+      "artist": "PulseNexis",
+      "file": "Vegas Dreams.mp3",
+      "duration": null
+    },
+    {
+      "id": 176,
+      "title": "Weak at the Knees (Remix)",
+      "artist": "PulseNexis",
+      "file": "Weak at the Knees (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 177,
+      "title": "Weak at the Knees",
+      "artist": "PulseNexis",
+      "file": "Weak at the Knees.mp3",
+      "duration": null
+    },
+    {
+      "id": 178,
+      "title": "What I Wanna Do to You",
+      "artist": "PulseNexis",
+      "file": "What I Wanna Do to You.mp3",
+      "duration": null
+    },
+    {
+      "id": 179,
+      "title": "What Part Of No Do You Not Understand (Remix)",
+      "artist": "PulseNexis",
+      "file": "What Part Of No Do You Not Understand (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 180,
+      "title": "What You Waitin For (Remix)",
+      "artist": "PulseNexis",
+      "file": "What You Waitin For (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 181,
+      "title": "What You Waitin For",
+      "artist": "PulseNexis",
+      "file": "What You Waitin For.mp3",
+      "duration": null
+    },
+    {
+      "id": 182,
+      "title": "What You Wanna Do (Remix)",
+      "artist": "PulseNexis",
+      "file": "What You Wanna Do (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 183,
+      "title": "What You Wanna Do",
+      "artist": "PulseNexis",
+      "file": "What You Wanna Do.mp3",
+      "duration": null
+    },
+    {
+      "id": 184,
+      "title": "What's Your Number",
+      "artist": "PulseNexis",
+      "file": "What's Your Number.mp3",
+      "duration": null
+    },
+    {
+      "id": 185,
+      "title": "When Time Heals",
+      "artist": "PulseNexis",
+      "file": "When Time Heals.mp3",
+      "duration": null
+    },
+    {
+      "id": 186,
+      "title": "When Will I See You Again",
+      "artist": "PulseNexis",
+      "file": "When Will I See You Again.mp3",
+      "duration": null
+    },
+    {
+      "id": 187,
+      "title": "When You Do That Thing You Do (Remix)",
+      "artist": "PulseNexis",
+      "file": "When You Do That Thing You Do (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 188,
+      "title": "When You Do That Thing You Do To Me",
+      "artist": "PulseNexis",
+      "file": "When You Do That Thing You Do To Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 189,
+      "title": "When You Look",
+      "artist": "PulseNexis",
+      "file": "When You Look.mp3",
+      "duration": null
+    },
+    {
+      "id": 190,
+      "title": "When You are Mine",
+      "artist": "PulseNexis",
+      "file": "When You are Mine.mp3",
+      "duration": null
+    },
+    {
+      "id": 191,
+      "title": "Whenever You Call",
+      "artist": "PulseNexis",
+      "file": "Whenever You Call.mp3",
+      "duration": null
+    },
+    {
+      "id": 192,
+      "title": "Where Are You",
+      "artist": "PulseNexis",
+      "file": "Where Are You.mp3",
+      "duration": null
+    },
+    {
+      "id": 193,
+      "title": "Where Love Used to Live",
+      "artist": "PulseNexis",
+      "file": "Where Love Used to Live.wav",
+      "duration": null
+    },
+    {
+      "id": 194,
+      "title": "With My Heart, I Do",
+      "artist": "PulseNexis",
+      "file": "With My Heart, I Do.mp3",
+      "duration": null
+    },
+    {
+      "id": 195,
+      "title": "With These Words",
+      "artist": "PulseNexis",
+      "file": "With These Words.mp3",
+      "duration": null
+    },
+    {
+      "id": 196,
+      "title": "Without Your Air",
+      "artist": "PulseNexis",
+      "file": "Without Your Air.mp3",
+      "duration": null
+    },
+    {
+      "id": 197,
+      "title": "Worth The Wait (Remix)",
+      "artist": "PulseNexis",
+      "file": "Worth The Wait (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 198,
+      "title": "You Got Me Funked Up",
+      "artist": "PulseNexis",
+      "file": "You Got Me Funked Up.mp3",
+      "duration": null
+    },
+    {
+      "id": 199,
+      "title": "You Played Me",
+      "artist": "PulseNexis",
+      "file": "You Played Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 200,
+      "title": "Your Love Comes With Side Effects",
+      "artist": "PulseNexis",
+      "file": "Your Love Comes With Side Effects.mp3",
+      "duration": null
+    },
+    {
+      "id": 201,
+      "title": "2025 Beat_1",
+      "artist": "PulseNexis",
+      "file": "2025 Beat_1.mp3",
+      "duration": null
+    },
+    {
+      "id": 202,
+      "title": "2025_Beat_2",
+      "artist": "PulseNexis",
+      "file": "2025_Beat_2.mp3",
+      "duration": null
+    },
+    {
+      "id": 203,
+      "title": "Anytime",
+      "artist": "PulseNexis",
+      "file": "Anytime.mp3",
+      "duration": null
+    },
+    {
+      "id": 204,
+      "title": "Ask Anything of Me (Remix)",
+      "artist": "PulseNexis",
+      "file": "Ask Anything of Me (Remix).mp3",
+      "duration": null
+    },
+    {
+      "id": 205,
+      "title": "Ask Anything of me",
+      "artist": "PulseNexis",
+      "file": "Ask Anything of me.mp3",
+      "duration": null
+    },
+    {
+      "id": 206,
+      "title": "Baby Come With Me",
+      "artist": "PulseNexis",
+      "file": "Baby Come With Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 207,
+      "title": "Beat 33",
+      "artist": "PulseNexis",
+      "file": "Beat 33.mp3",
+      "duration": null
+    },
+    {
+      "id": 208,
+      "title": "Beat32",
+      "artist": "PulseNexis",
+      "file": "Beat32.mp3",
+      "duration": null
+    },
+    {
+      "id": 209,
+      "title": "Beat_1",
+      "artist": "PulseNexis",
+      "file": "Beat_1.mp3",
+      "duration": null
+    },
+    {
+      "id": 210,
+      "title": "Beat_2",
+      "artist": "PulseNexis",
+      "file": "Beat_2.mp3",
+      "duration": null
+    },
+    {
+      "id": 211,
+      "title": "Before I Let You In",
+      "artist": "PulseNexis",
+      "file": "Before I Let You In.mp3",
+      "duration": null
+    },
+    {
+      "id": 212,
+      "title": "Chop Chop 2",
+      "artist": "PulseNexis",
+      "file": "Chop Chop 2.mp3",
+      "duration": null
+    },
+    {
+      "id": 213,
+      "title": "Chop Chop",
+      "artist": "PulseNexis",
+      "file": "Chop Chop.mp3",
+      "duration": null
+    },
+    {
+      "id": 214,
+      "title": "Darling You",
+      "artist": "PulseNexis",
+      "file": "Darling You.mp3",
+      "duration": null
+    },
+    {
+      "id": 215,
+      "title": "Follow You Forever",
+      "artist": "PulseNexis",
+      "file": "Follow You Forever.mp3",
+      "duration": null
+    },
+    {
+      "id": 216,
+      "title": "In The Sky",
+      "artist": "PulseNexis",
+      "file": "In The Sky.mp3",
+      "duration": null
+    },
+    {
+      "id": 217,
+      "title": "Just Because",
+      "artist": "PulseNexis",
+      "file": "Just Because.mp3",
+      "duration": null
+    },
+    {
+      "id": 218,
+      "title": "Lady I",
+      "artist": "PulseNexis",
+      "file": "Lady I.mp3",
+      "duration": null
+    },
+    {
+      "id": 219,
+      "title": "Let's Make It Real",
+      "artist": "PulseNexis",
+      "file": "Let's Make It Real.mp3",
+      "duration": null
+    },
+    {
+      "id": 220,
+      "title": "My Greatest Treasure",
+      "artist": "PulseNexis",
+      "file": "My Greatest Treasure.mp3",
+      "duration": null
+    },
+    {
+      "id": 221,
+      "title": "Old School Groove",
+      "artist": "PulseNexis",
+      "file": "Old School Groove.mp3",
+      "duration": null
+    },
+    {
+      "id": 222,
+      "title": "Old Time Groove",
+      "artist": "PulseNexis",
+      "file": "Old Time Groove.mp3",
+      "duration": null
+    },
+    {
+      "id": 223,
+      "title": "Planet Fool_1",
+      "artist": "PulseNexis",
+      "file": "Planet Fool_1.mp3",
+      "duration": null
+    },
+    {
+      "id": 224,
+      "title": "Remix Lady I",
+      "artist": "PulseNexis",
+      "file": "Remix Lady I.mp3",
+      "duration": null
+    },
+    {
+      "id": 225,
+      "title": "Remixed Darling You",
+      "artist": "PulseNexis",
+      "file": "Remixed Darling You.mp3",
+      "duration": null
+    },
+    {
+      "id": 226,
+      "title": "Rockit_1",
+      "artist": "PulseNexis",
+      "file": "Rockit_1.mp3",
+      "duration": null
+    },
+    {
+      "id": 227,
+      "title": "Rockit_2",
+      "artist": "PulseNexis",
+      "file": "Rockit_2.mp3",
+      "duration": null
+    },
+    {
+      "id": 228,
+      "title": "Shelter Me",
+      "artist": "PulseNexis",
+      "file": "Shelter Me.mp3",
+      "duration": null
+    },
+    {
+      "id": 229,
+      "title": "So Fine",
+      "artist": "PulseNexis",
+      "file": "So Fine.mp3",
+      "duration": null
+    },
+    {
+      "id": 230,
+      "title": "So Right, So Fine",
+      "artist": "PulseNexis",
+      "file": "So Right, So Fine.mp3",
+      "duration": null
+    },
+    {
+      "id": 231,
+      "title": "Take this broken man",
+      "artist": "PulseNexis",
+      "file": "Take this broken man.mp3",
+      "duration": null
+    },
+    {
+      "id": 232,
+      "title": "Taking My Time",
+      "artist": "PulseNexis",
+      "file": "Taking My Time.mp3",
+      "duration": null
+    },
+    {
+      "id": 233,
+      "title": "The Way We Could Be",
+      "artist": "PulseNexis",
+      "file": "The Way We Could Be.mp3",
+      "duration": null
+    },
+    {
+      "id": 234,
+      "title": "This Golden Thread",
+      "artist": "PulseNexis",
+      "file": "This Golden Thread.mp3",
+      "duration": null
+    },
+    {
+      "id": 235,
+      "title": "This broken man (Remastered)mp3",
+      "artist": "PulseNexis",
+      "file": "This broken man (Remastered)mp3.mp3",
+      "duration": null
+    },
+    {
+      "id": 236,
+      "title": "Wrapped Tight",
+      "artist": "PulseNexis",
+      "file": "Wrapped Tight.mp3",
+      "duration": null
+    }
+  ]
+}
